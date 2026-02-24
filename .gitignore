@@ -6,6 +6,7 @@ yarn-error.log
 # Frontend build
 frontend/dist/
 frontend/.npm-cache/
+backend/.npm-cache/
 
 # IDE
 .vscode/
