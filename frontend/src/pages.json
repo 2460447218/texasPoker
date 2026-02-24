@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "德州扑克计分板"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "德州扑克",
+    "navigationBarBackgroundColor": "#1a5e3a",
+    "backgroundColor": "#2E8B57"
+  }
+}
